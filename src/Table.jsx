@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import busLinesData from './lines.json'
 
-const numberLine = busLinesData.busLines[0].numberLine
-const route = busLinesData.busLines[0].route
-const operator = busLinesData.busLines[0].operator
+const [busLine, setBusLine] = useState(null);
+
+
+
 export function TablaDinamica() {
 
 
