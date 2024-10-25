@@ -1,8 +1,8 @@
-# React + Vite
+# Proyecto 2 | Random BusLine VLC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Segundo proyecto realizado con el framework React, esta vez ya no es siguiendo un tutorial, ahora es un proyecto "desde 0" que se ha realizado buscando información y con chat con intelgiencia artificial generativa.
+Se trata de una sencilla página que cada vez que la actualices, te proporciona una línea de autobus diferente, pero siempre referida al área metropolitana de Valencia.
 
-Currently, two official plugins are available:
+Se tiene planeado que proporcione una imagen ilustrativa de un autobus en la ruta (futuras versiones)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Saludos!
