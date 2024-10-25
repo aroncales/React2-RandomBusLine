@@ -1,0 +1,50 @@
+{
+    "busLines" : [
+        {
+            "numberLine": "150",
+            "route": "Valencia - Mislata - Quart - Manises - Aeroport",
+            "operator": "FernanBus"
+        },
+        {
+            "numberLine": "160",
+            "route": "Valencia - C.C. Bonaire",
+            "operator": "FernanBus"
+        },
+        {
+            "numberLine": "161",
+            "route": "Valencia - Xirivella - Aldaia - Alaquas - Quart",
+            "operator": "FernanBus"
+        },
+        {
+            "numberLine": "170",
+            "route": "Valencia - Torrent",
+            "operator": "FernanBus"
+        },
+        {
+            "numberLine": "179",
+            "route": "Paiporta - Albal",
+            "operator": "FernanBus"
+        },
+        {
+            "numberLine": "180",
+            "route" : "Valencia - Albal",
+            "operator" : "Auvaca"
+        },
+        {
+            "numberLine": "181",
+            "route" : "Valencia - Picassent",
+            "operator" : "Auvaca"
+        },
+        {
+            "numberLine": "182",
+            "route" : "Valencia - Silla",
+            "operator" : "Auvaca"
+        },
+        {
+            "numberLine": "183",
+            "route" : "Valencia - Sedaví - IKEA",
+            "operator" : "Herca"
+        }
+
+    ]
+}

@@ -1,0 +1,20 @@
+.Principal {
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    font-size: 30px;
+    font-family: Inconsolata, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: #363434
+}
+
+td {
+    color: aliceblue;
+}
+
+tr {
+    background-color: black;
+}
