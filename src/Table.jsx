@@ -20,6 +20,7 @@ export function TablaDinamica() {
     if (!busLine) return <p>Cargando...</p>;
 
     return (
+        <div>
         <table>
             <thead>
                 <tr>
@@ -36,5 +37,8 @@ export function TablaDinamica() {
                 </tr>
             </tbody> 
         </table>
+       <button onClick={selectBusLine}>Actualizar</button> 
+        </div>
+
     )
 }
